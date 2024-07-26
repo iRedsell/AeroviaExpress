@@ -1,0 +1,23 @@
+body{
+    font-family: Verdana, sans-serif;
+}
+
+.empresa{
+    font-family: 'Gill Sans', sans-serif;
+}
+
+.bg-azul{
+    background-color: #051B54;
+}
+
+.bg-boton{
+    background-color: #FFFFFF33;
+}
+
+.bg-promocional{
+    background-color: #62DAD3;
+}
+
+.letra-formulario{
+    color:  #051B54 !important;
+}
